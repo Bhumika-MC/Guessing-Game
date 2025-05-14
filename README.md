@@ -36,7 +36,7 @@ Guessing-Game/
 
 ## Live Demo
 
-Play the game here: [bhumiguessame.ccbp.tech]
+Play the game here: [https://bhumiguessame.ccbp.tech](https://bhumiguessame.ccbp.tech)
 
 ## Screenshot
 
